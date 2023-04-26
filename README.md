@@ -1,4 +1,4 @@
-# Portfolio Responsive Complete
-### Portfolio responsive complete
-A clean and nice web portfolio that includes everything. At first, your name, links to social networks and a great image. Then the About section displays more information about you. Then the list of Skills it offers. It also has a section where it shows some recent work. And at the bottom it has a form, and at the end with a footer.
+# Personal Portfolio Responsive
+
+My Personal Responsive Portfolio Website Using HTML CSS And JavaScript including my links to Social Networks, About section, list of Skills I offer. Also includes a section where it shows some of my recent works. And at the bottom has a form to allowing users to send me a message.
 
