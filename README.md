@@ -1,4 +1,4 @@
 # Personal Portfolio Responsive
 
-My Personal Responsive Portfolio Website Using HTML CSS And JavaScript including my links to Social Networks, About section, list of Skills I offer. Also includes a section where it shows some of my recent works. And at the bottom has a form to allowing users to send me a message.
+My Personal Responsive Portfolio Website using HTML CSS And JavaScript including my links to social networks, About section and a list of skills I offer. It also includes a section showing some of my recent works. And at the bottom I have included a form allowing users to send me a message.
 
