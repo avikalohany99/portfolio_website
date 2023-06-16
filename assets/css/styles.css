@@ -324,15 +324,31 @@ img {
 }
 
 .skills__css {
-  width: 85%;
+  width: 95%;
 }
 
 .skills__js {
-  width: 65%;
+  width: 90%;
 }
 
-.skills__ux {
+.skills__react {
+  width: 90%;
+}
+
+.skills__vue{
+  width: 75%;
+}
+
+.skills__boot{
+  width: 95%;
+}
+
+.skills__sass{
   width: 85%;
+}
+
+.skills__git{
+  width: 95%;
 }
 
 .skills__img {
