@@ -405,6 +405,10 @@ img {
   margin-left: auto;
 }
 
+.section-title_linkedin:hover{
+  text-decoration: underline;
+}
+
 /* ===== FOOTER =====*/
 .footer {
   background-color: var(--second-color);
