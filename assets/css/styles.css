@@ -367,12 +367,21 @@ img {
   overflow: hidden;
 }
 
+.work__divcontainer{
+  transition: 1s;
+}
+
+
 .work__img img {
   transition: 1s;
 }
 
 .work__img img:hover {
   transform: scale(1.1);
+}
+
+.work__project{
+  /* padding-top: 20px; */
 }
 
 /* ===== CONTACT =====*/
