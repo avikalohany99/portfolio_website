@@ -405,8 +405,14 @@ img {
   margin-left: auto;
 }
 
+.section-title_linkedin:visited{
+  text-decoration: none;
+  color: var(--second-color);
+}
+
 .section-title_linkedin:hover{
   text-decoration: underline;
+  color: var(--first-color);
 }
 
 /* ===== FOOTER =====*/
